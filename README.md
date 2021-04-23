@@ -13,7 +13,7 @@ Some challenges for Imaginary CTF - April 2021
 | 2 | [lookup-rev](../main/lookup-rev/README.md) | Reversing | Easy |
 | 3 | [Look-For-It](../main/Look-For-It/README.md) | Web | Easy |
 | 4 | [hash-extension](../main/hash-extension/README.md) | Web | Moderate |
-| 5 | [php](../main/php/README.md) | Web | Moderate |
+| 5 | [canaries](../main/canaries/README.md) | Pwn | Moderate |
 
 ## Flag format
 
