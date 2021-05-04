@@ -12,8 +12,7 @@ Some challenges for Imaginary CTF - April 2021
 | 1 | [ret2win](../main/ret2win/README.md) | Pwn | Easy |
 | 2 | [lookup-rev](../main/lookup-rev/README.md) | Reversing | Easy |
 | 3 | [Look-For-It](../main/Look-For-It/README.md) | Web | Easy |
-| 4 | [hash-extension](../main/hash-extension/README.md) | Web | Moderate |
-| 5 | [canaries](../main/canaries/README.md) | Pwn | Moderate |
+| 4 | [canaries](../main/canaries/README.md) | Pwn | Moderate |
 
 ## Flag format
 
